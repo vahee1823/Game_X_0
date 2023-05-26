@@ -193,6 +193,5 @@ polefontm.add_command(label='Зелёный', command=lambda c='green': sqrt_cha
 polefontm.add_command(label='Голубой', command=lambda c='#4fe8fa': sqrt_change_color(SqrtList, canv, c))
 polefontm.add_command(label='Пурпурный', command=lambda c='#8D6FF0': sqrt_change_color(SqrtList, canv, c))
 polefontm.add_command(label='Белый', command=lambda c='white': sqrt_change_color(SqrtList, canv, c))
-polefontm.add_command(label='Розовый', command=lambda c='#e625ed': sqrt_change_color(SqrtList, canv, c))
 
 root.mainloop()  # Зацикливание окна (конец программы)

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28dcdf99-573e-42ef-89e0-f67022668478" name="Changes" comment="2.2 Release">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game_X_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game_X_0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe files/Game_X_0_v.2.0.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EXE_Releases/Game_X_0_v.2.0.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe files/Game_X_0_v.2.1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EXE_Releases/Game_X_0_v.2.1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +32,16 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/dimsi/Рабочий стол/Python Projects/Игры/Game_X_0&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dimsi\Рабочий стол\Python Projects\Игры\Game_X_0" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dimsi\Рабочий стол\Python Projects\Игры\Game_X_0\exe files" />
+      <recent name="C:\Users\dimsi\Рабочий стол\Python Projects\Игры\Game_X_0\Releases" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Game_X_0_v.2.2">
     <configuration name="Game_X_0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Game_X_0" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,8 +63,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Game_X_0_v.2.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Game_X_0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Releases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Releases/Game_X_0_v.2.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Game_X_0_v.2.2" />
         <item itemvalue="Python.Game_X_0" />
       </list>
     </recent_temporary>
@@ -86,12 +121,31 @@
       <option name="project" value="LOCAL" />
       <updated>1685118398039</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2.2 Release">
+      <created>1685118915395</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685118915395</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ADD Files" />
     <MESSAGE value="Replace" />
-    <option name="LAST_COMMIT_MESSAGE" value="Replace" />
+    <MESSAGE value="2.2 Release" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.2 Release" />
   </component>
 </project>
