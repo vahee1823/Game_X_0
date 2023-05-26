@@ -140,7 +140,7 @@ TitleLabel = Label(text='Это игра Крестики-нолики v. 2.2\n 
                    font='Consolas, 14')
 TitleLabel.pack()
 
-canv = Canvas(width=501, height=501, bg='#bfbfbf')  # Создание и настройка Canvas
+canv = Canvas(width=501, height=501, bg='#bfbfbf')  # Создание и настройка Canvas.
 canv.pack()
 
 Sqrt1 = canv.create_rectangle(0, 0, 167, 167, width=3, fill='#bfbfbf')  # Создание доски (каждого поля)
